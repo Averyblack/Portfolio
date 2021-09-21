@@ -1,6 +1,7 @@
 ## Portfolio 
 ### Python projects
 #### Image encoding app
+  This app utilize numpy to transform images into 3D arrays using a given key and saves it as .csv file. Decoding the image require the same key that was set during encoding. 
 Used libraries:
 * NumPy
 * Pandas
