@@ -2,6 +2,7 @@
 ### Python projects
 #### Image encoding app
   This app utilize numpy to transform images into 3D arrays using a given key and saves it as .csv file. Decoding the image require the same key that was set during encoding. 
+
 Used libraries:
 * NumPy
 * Pandas
@@ -11,6 +12,7 @@ Used libraries:
 
 #### Bioinformatic tool
   This is a DNA analyzing bioinformatic tool made based on Finding Hidden Messages in DNA (Bioinformatics I) course on Coursera provided by University of California San Diego, and my own effort. Current features include transcription, translation, enzymatic restriction and finding origin of replication. Curently still in progress as I am constantly adding or improving features.
+
 Used libraries: 
 * PyQt
 * MatPlotLib
@@ -26,6 +28,7 @@ Transcribing:
 ![alt text](Transcribe.JPG)
  
 #### Youtube downloader
+
 Used libraries: 
 * pytube
 
