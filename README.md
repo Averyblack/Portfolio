@@ -35,4 +35,5 @@ Used libraries:
 ### Space shooter
 Simple scrolling shooter made in Unity. Currently have only few waves but it is a fully functional demo.
 ![alt text](Space shooter.JPG)
+
 ### Falgrim Defence
