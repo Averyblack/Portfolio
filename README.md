@@ -10,7 +10,7 @@ Used libraries:
 ![alt text](Capture.PNG)
 
 #### Bioinformatic tool
-  This is a DNA analyzing bioinformatic tool made based on Finding Hidden Messages in DNA (Bioinformatics I) course on Coursera provided by University of California San Diego, and my own effort. Current features include transcription, translation, enzymatic restriction and finding origin of replication.
+  This is a DNA analyzing bioinformatic tool made based on Finding Hidden Messages in DNA (Bioinformatics I) course on Coursera provided by University of California San Diego, and my own effort. Current features include transcription, translation, enzymatic restriction and finding origin of replication. Curently still in progress as I am constantly adding or improving features.
 Used libraries: 
 * PyQt
 * MatPlotLib
@@ -18,7 +18,11 @@ Used libraries:
 * OpenPyxl
 * sqlite3
 * itertools
+
+Findign the origin of repliction:
 ![alt text](Ori.JPG)
+
+Transcribing:
 ![alt text](Transcribe.JPG)
  
 #### Youtube downloader
@@ -27,5 +31,5 @@ Used libraries:
 
 ### C# projects
 #### Space shooter
-Simple scrolling shooter made in Unity. Currently have only few waves but it is fullt functional demo.
+Simple scrolling shooter made in Unity. Currently have only few waves but it is a fully functional demo.
 #### Falgrim Defence
