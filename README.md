@@ -34,6 +34,7 @@ Used libraries:
 ## C# projects
 ### Space shooter
 Simple scrolling shooter made in Unity. Currently have only few waves but it is a fully functional demo.
+
 ![alt text](Spaceshooter.jpg)
 
 ### Falgrim Defence
