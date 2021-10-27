@@ -25,6 +25,23 @@ Findign the origin of repliction:
 
 Transcribing:
 ![alt text](Transcribe.JPG)
+
+### Machine Learning project
+  Implemaenting various machine learning models in order to asses if Mammographic masses are malignant or benign. Established models were verified using K-Fold cross validation method. Accuracy on ever mode was above 73% with the most accurate models being KNN(79%) nad SVM(80%). 
+  
+  Used ML models:
+  * Decision tree
+  * Random Forest Classifier
+  * KNN
+  * SVM
+  * Naive Bayes
+  
+  Used libraries:
+  * Pandas
+  * Numpy
+  * Sklearn
+  * pydot
+  * six
  
 ### Youtube downloader
 
